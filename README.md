@@ -22,5 +22,15 @@ Top to bottom row: Attention mask, Content mask, Output image
 
 ![alt text](./images/Result.png)
 
+FID of Age0-9 = 133.09
+FID of Age10-19 = 57.94
+FID of Age20-29 = 66.09
+FID of Age30-49 = 69.13
+FID of Age50-69 = 77.96
+FID of Age70+ = 164.54
+FID of Gender = 70.64
+FID of ReadingGlasses = 85.64
+FID of Sunglasses = 147.57
+
 
 
